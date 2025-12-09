@@ -13,42 +13,60 @@ Highly adaptable — strong in **Python**, capable in **Java**, and quick to lea
 - Believe in writing clean, scalable, production-oriented code  
 
 ---
-
-## 🧠 Tech Stack & Skills
-
-### **Core AI / ML / DL**
-- Machine Learning  
-- Deep Learning (ANN, CNN, RNN, Transfer Learning)  
-- Data Science & Statistical Modelling  
-- Generative AI & Agentic AI  
-- Model Deployment (FastAPI, Docker)
-
-### **Programming Languages**
-- Python (Advanced)  
-- Java  
-- JavaScript  
-- C / C++  
-- SQL  
-
-### **Web Development**
-- HTML  
-- CSS  
-- React  
-- Node.js & Express  
-
-### **Cloud & Tools**
-- Git, GitHub  
-- Docker  
-- Postman  
-- XAMPP  
-- AWS & GCP Fundamentals  
-- Salesforce  
-- AI Automation Tools  
-
-### **Other**
-- Data Structures & Algorithms  
-- Problem-Solving  
-- System Design Basics  
+## 🧭 Mind Map — My Expertise & Work Areas
+```mermaid
+mindmap
+  root((KRISHNAPRASATH))
+    AI_ML((Artificial Intelligence))
+      ML((Machine Learning))
+        Supervised((Supervised Learning))
+        Unsupervised((Unsupervised Learning))
+        Metrics((Evaluation Metrics))
+      DeepLearning((Deep Learning))
+        ANN((Neural Networks))
+        CNN((Computer Vision Models))
+        RNN((Sequence Models))
+        Transfer((Transfer Learning))
+        Optimization((Hyperparameter Tuning))
+      GenAI((Generative AI))
+        LLMs((Large Language Models))
+        Prompting((Prompt Engineering))
+        FineTune((Model Fine-Tuning))
+        RAG((Retrieval-Augmented Generation))
+      Agentic((Agentic AI))
+        Workflow((AI Workflows))
+        Tools((Tool-Using Agents))
+        Automation((Task Automation))
+      ResumeAI((ReSuzo Resume AI))
+        ATS((ATS Optimization))
+        Matching((Job Matching System))
+        Enhancement((Resume Enhancer))
+    Cloud((Cloud & Deployment))
+      AWS
+      GCP
+      Deployment((FastAPI Deployment))
+      Docker((Containerization))
+    WebDev((Web Development))
+      Frontend((Frontend))
+       Next.js,React.js
+      Backend((Backend))
+        Node((Node.js))
+        Express((Express.js))
+        SQL,MongoDB,Postgres
+    Programming((Programming))
+      Python((Python Advanced))
+      Java((Java))
+      JS((JavaScript))
+      C_CPP((C / C++))
+    CSFundamentals((CS Fundamentals))
+      DSA((Data Structures & Algorithms))
+      ProblemSolving((Problem Solving))
+      Design((System Design Basics))
+    Tools((Tools & Platforms))
+      Git((Git & GitHub))
+      Postman((Postman))
+      Salesforce((Salesforce))
+      AITools((AI Automation Tools))
 
 ---
 
@@ -64,7 +82,6 @@ Features:
 - Smart recommendations to improve job selection chances  
 
 ---
-
 ### 🔍 **ML Classification Benchmark**
 Comparing multiple ML models in a unified Colab pipeline.
 
@@ -76,7 +93,6 @@ CRUD + REST API using Node.js, SQL, and clean backend architecture.
 
 ### 🤖 **Agentic AI Experiments**
 Building autonomous AI workflows and automation pipelines.
-
 ---
 
 ## 📈 Skills Snapshot
@@ -88,3 +104,19 @@ pie
   "Web Development" : 15
   "DSA & Problem Solving" : 10
   "AI Tools & Salesforce" : 10
+---
+## 💼 Strengths
+
+- Strong Python foundation with hands-on AI/ML/DL work  
+- Adaptable to every situation & fast learner  
+- Excellent debugging and problem-solving skills  
+- Focused on clean, scalable, production-ready code  
+- Deep interest in innovation & building impactful AI systems  
+
+---
+
+## 🌐 Connect With Me
+
+- **Instagram:** https://www.instagram.com/04_krishna_0405  
+- **LinkedIn:** https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273  
+
