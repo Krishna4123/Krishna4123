@@ -73,8 +73,8 @@ mindmap
       Postman((Postman))
       Salesforce((Salesforce))
       AITools((AI Automation Tools))
-
-
+...
+---
 ## 🛠️ Projects
 
 ### 🧬 **ReSuzo – AI Resume Builder & Job Matcher (GenAI + ML)**
