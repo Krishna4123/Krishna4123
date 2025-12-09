@@ -110,6 +110,7 @@ pie
   "Web Development" : 15
   "DSA & Problem Solving" : 10
   "AI Tools & Salesforce" : 10
+```
 ---
 ## 💼 Strengths
 
