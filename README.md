@@ -1,4 +1,4 @@
-# 👋 Hi, I'm KRISHNAPRASATH
+# 👋 Hi, I'm KRISHNAPRASATH  
 ### AI Engineer • Data Scientist • ML & Deep Learning Enthusiast
 
 I build scalable Machine Learning, Deep Learning, and Cloud-ready applications.  
@@ -7,9 +7,9 @@ Highly adaptable — strong in **Python**, capable in **Java**, and quick to lea
 ---
 
 ## 🚀 About Me
-- Passionate about **AI, ML, Deep Learning, Cloud & Automation**
-- Strong analytical mindset with hands-on experience in real-world ML projects
-- Currently exploring **Agentic AI, GenAI, Cloud Engineering, and DSA**
+- Passionate about **AI, ML, Deep Learning, Cloud & Automation**  
+- Strong analytical mindset with hands-on experience in real-world ML projects  
+- Currently exploring **Agentic AI, GenAI, Cloud Engineering, and DSA**  
 - Believe in writing clean, scalable, production-oriented code  
 
 ---
@@ -73,8 +73,6 @@ mindmap
       Postman((Postman))
       Salesforce((Salesforce))
       AITools((AI Automation Tools))
-
-
 ---
 
 ## 🛠️ Projects
