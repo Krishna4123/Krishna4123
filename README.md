@@ -40,24 +40,29 @@ mindmap
         Automation((Task Automation))
       ResumeAI((ReSuzo Resume AI))
         ATS((ATS Optimization))
-        Matching((Job Matching System))
-        Enhancement((Resume Enhancer))
+        Matching((Job Matching))
+        Enhancement((Resume Enhancement))
     Cloud((Cloud & Deployment))
-      AWS
-      GCP
+      AWS((AWS))
+      GCP((GCP))
       Deployment((FastAPI Deployment))
       Docker((Containerization))
     WebDev((Web Development))
       Frontend((Frontend))
-       Next.js,React.js
+        HTML((HTML))
+        CSS((CSS))
+        React((React.js))
+        Nextjs((Next.js))
       Backend((Backend))
         Node((Node.js))
         Express((Express.js))
-        SQL,MongoDB,Postgres
+        SQL((SQL))
+        MongoDB((MongoDB))
+        Postgres((PostgreSQL))
     Programming((Programming))
       Python((Python Advanced))
       Java((Java))
-      JS((JavaScript))
+      JavaScript((JavaScript))
       C_CPP((C / C++))
     CSFundamentals((CS Fundamentals))
       DSA((Data Structures & Algorithms))
@@ -68,6 +73,7 @@ mindmap
       Postman((Postman))
       Salesforce((Salesforce))
       AITools((AI Automation Tools))
+
 
 ---
 
