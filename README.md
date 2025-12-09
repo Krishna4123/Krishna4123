@@ -13,6 +13,7 @@ Highly adaptable — strong in **Python**, capable in **Java**, and quick to lea
 - Believe in writing clean, scalable, production-oriented code  
 
 ---
+
 ## 🧭 Mind Map — My Expertise & Work Areas
 ```mermaid
 mindmap
