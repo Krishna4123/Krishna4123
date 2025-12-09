@@ -131,5 +131,6 @@ pie
 ## 🌐 Connect With Me
 
 - **Instagram:** https://www.instagram.com/04_krishna_0405  
-- **LinkedIn:** https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273  
+- **LinkedIn:** https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273
+- **Twitter:** https://x.com/Krishna53257400  
 
