@@ -2,109 +2,81 @@
 ### AI Engineer • Data Scientist • ML & Deep Learning Enthusiast
 
 I build scalable Machine Learning, Deep Learning, and Cloud-ready applications.  
-Highly adaptable — strong in **Python**, capable in **Java**, and quick to learn any new technology or environment.
+Strong in **Python**, capable in **Java**, and always exploring new technologies.
 
 ---
 
 ## 🚀 About Me
-- Passionate about **AI, ML, Deep Learning, Cloud & Automation**  
-- Strong analytical mindset with hands-on experience in real-world ML projects  
-- Currently exploring **Agentic AI, GenAI, Cloud Engineering, and DSA**  
-- Believe in writing clean, scalable, production-oriented code  
+- Passionate about **AI, ML, Deep Learning, Cloud & Automation**
+- Currently exploring **Agentic AI, GenAI, Cloud Engineering, and DSA**
+- I love building clean, scalable, production-oriented solutions  
+---
+
+# 🧠 Skills & Expertise (Icon Based)
+
+## 🔥 AI • ML • Deep Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" height="45"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%230076D6.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-%23FF6F00.svg?&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-%2300C4B3.svg?&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧭 Mind Map — My Expertise & Work Areas
-```mermaid
-mindmap
-  root((KRISHNAPRASATH))
-
-    %% Left Side Nodes
-    AI((AI • ML • DL))
-      ML((Machine Learning))
-        Supervised((Supervised))
-        Unsupervised((Unsupervised))
-        Metrics((Metrics))
-      DL((Deep Learning))
-        ANN((ANN))
-        CNN((CNN))
-        RNN((RNN))
-        Transfer((Transfer Learning))
-      GenAI((Generative AI))
-        LLMs((LLMs))
-        RAG((RAG))
-        Prompting((Prompt Engineering))
-        FineTune((Fine Tuning))
-      Agentic((Agentic AI))
-        Workflow((Workflows))
-        Tools((Tool Use))
-        Automation((Automation))
-      ResumeAI((ReSuzo Resume AI))
-        ATS((ATS Optimizer))
-        Match((Job Matcher))
-        Enhance((Resume Enhancer))
-
-    %% Right Side Nodes
-    Cloud((Cloud & Deployment))
-      AWS((AWS))
-      GCP((GCP))
-      FastAPI((FastAPI Deployment))
-      Docker((Docker))
-    
-    WebDev((Web Development))
-      Frontend((Frontend))
-        React((React.js))
-        Nextjs((Next.js))
-      Backend((Backend))
-        Node((Node.js))
-        Express((Express.js))
-        SQL((SQL))
-        MongoDB((MongoDB))
-        Postgres((PostgreSQL))
-
-    Programming((Programming Skills))
-      Python((Python Advanced))
-      Java((Java))
-      JS((JavaScript))
-      CPP((C / C++))
-
-    CSFund((CS Fundamentals))
-      DSA((DSA))
-      ProblemSolving((Problem Solving))
-      SysDesign((System Design))
-
-    Tools((Tools & Platforms))
-      Git((Git & GitHub))
-      Postman((Postman))
-      Salesforce((Salesforce))
-      AITools((AI Tools))
-
-```
----
-
-## 🛠️ Projects
-
-### 🧬 **ReSuzo – AI Resume Builder & Job Matcher (GenAI + ML)**
-A smart resume enhancement system powered by **Generative AI + Machine Learning**.  
-Features:  
-- Automated resume building & formatting  
-- ATS score prediction  
-- Resume enhancement using GenAI  
-- Job–Resume matching using ML similarity scoring  
-- Smart recommendations to improve job selection chances  
+## 🤖 Agentic AI / GenAI Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-%230081CB.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-%237829FF.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-%23FF4081.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine%20Tuning-%2300ACC1.svg?&style=for-the-badge"/>
+</p>
 
 ---
-### 🔍 **ML Classification Benchmark**
-Comparing multiple ML models in a unified Colab pipeline.
 
-### ❤️ **Heart Attack Prediction**
-Predictive analytics with feature engineering & model interpretation.
+## ☁️ Cloud & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,fastapi" height="45"/>
+</p>
 
-### 🏦 **Bank & Employee Management Systems**
-CRUD + REST API using Node.js, SQL, and clean backend architecture.
+---
 
-### 🤖 **Agentic AI Experiments**
-Building autonomous AI workflows and automation pipelines.
+## 🌐 Web Development
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js" height="45"/>
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="45"/>
+</p>
+
+---
+
+## 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp" height="45"/>
+</p>
+
+---
+
+## 🧠 CS Fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/DSA-%23009688.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-%232196F3.svg?&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-%23AA00FF.svg?&style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" height="45"/>
+  <img src="https://img.shields.io/badge/Salesforce-%2300A1E0.svg?&style=for-the-badge&logo=salesforce&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Tools-%23D81B60.svg?&style=for-the-badge"/>
+</p>
+
 ---
 
 ## 📈 Skills Snapshot
@@ -118,19 +90,42 @@ pie
   "AI Tools & Salesforce" : 10
 ```
 ---
-## 💼 Strengths
 
-- Strong Python foundation with hands-on AI/ML/DL work  
-- Adaptable to every situation & fast learner  
-- Excellent debugging and problem-solving skills  
-- Focused on clean, scalable, production-ready code  
-- Deep interest in innovation & building impactful AI systems  
+# 🛠️ Projects
+
+### 🧬 **ReSuzo – AI Resume Builder & Job Matcher (GenAI + ML)**
+- Automated resume formatting & enhancement  
+- ATS score prediction  
+- Resume–Job matching using ML similarity scoring  
+- GenAI-powered smart recommendations  
+
+---
+
+### 🔍 **ML Classification Benchmark**
+A unified pipeline comparing multiple ML models.
+
+### ❤️ **Heart Attack Prediction**
+Predictive analytics with feature engineering & interpretation.
+
+### 🏦 **Bank & Employee Management Systems**
+Backend APIs with Node.js & SQL architecture.
+
+### 🤖 **Agentic AI Experiments**
+Autonomous workflows & automation using agent-based systems.
+
+---
+
+## 🌟 Strengths
+- Strong Python + ML foundations  
+- Fast learner, highly adaptable  
+- Excellent debugging and problem-solving  
+- Loves building production-ready, clean systems  
 
 ---
 
 ## 🌐 Connect With Me
-
-- **Instagram:** https://www.instagram.com/04_krishna_0405  
-- **LinkedIn:** https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273
-- **Twitter:** https://x.com/Krishna53257400  
-
+<p align="left">
+  <a href="https://www.instagram.com/04_krishna_0405"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
+  <a href="https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://x.com/Krishna53257400"><img src="https://skillicons.dev/icons?i=twitter" height="40"></a>
+</p>
