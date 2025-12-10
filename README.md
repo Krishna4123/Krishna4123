@@ -12,7 +12,7 @@ Strong in **Python**, capable in **Java**, and always exploring new technologies
 - I love building clean, scalable, production-oriented solutions  
 ---
 
-# 🧠 Skills & Expertise (Icon Based)
+# 🧠 Skills & Expertise 
 
 ## 🔥 AI • ML • Deep Learning
 <p align="left">
