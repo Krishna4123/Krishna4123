@@ -1,7 +1,7 @@
 # 👋 Hi, I'm KRISHNAPRASATH  
 ### AI Engineer • Data Scientist • ML & Deep Learning Enthusiast
 
-I build scalable Machine Learning, Deep Learning, and Cloud-ready applications.  
+I build scalable Machine Learning, Deep Learning, Generative AI and Cloud-ready applications.  
 Strong in **Python**, capable in **Java**, and always exploring new technologies.
 
 ---
