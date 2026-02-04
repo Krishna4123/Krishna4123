@@ -5,13 +5,6 @@ I build scalable Machine Learning, Deep Learning, Generative AI and Cloud-ready 
 Strong in **Python**, capable in **Java**, and always exploring new technologies.
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub%20Space&fontSize=40&fontAlignY=35&desc=Learning%20•%20Building%20•%20Improving&descAlignY=55&descAlign=50"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+Krishnaprasath+👋;AI+Engineer+%7C+Data+Scientist;ML+%26+Deep+Learning+Enthusiast;Building+AI-Powered+Systems;Learning+by+Doing+🚀" />
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=krishnaprasath&style=for-the-badge&color=brightgreen" />
