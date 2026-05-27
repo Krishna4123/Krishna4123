@@ -16,30 +16,9 @@
   <img src="https://img.shields.io/github/stars/Krishna4123?style=for-the-badge&color=yellow&labelColor=black" />
 </div>
 
-<!-- CYBERPUNK ANIMATED BANNER -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Cyberpunk City" width="100%" />
-</p>
-
-<!-- CYBERPUNK ANIMATED GIF - GOLD CODER -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Cyberpunk Coder" width="500" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
-</p>
-
-## 📌 About Me
-- Passionate about AI, ML, Deep Learning, Cloud & Automation
-- Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
-- I love building clean, scalable, production-oriented solutions
-
-## 🧠 My Focus Areas
-- Building scalable AI & ML systems for real-world applications
-- Exploring Agentic AI and autonomous workflows
-- Developing production-ready GenAI applications with RAG & LLMs
-- Cloud-native deployment using AWS, Docker & FastAPI
+</p>oud-native deployment using AWS, Docker & FastAPI
 - Writing clean, optimized, and maintainable backend systems
 - Strengthening DSA, System Design, and Software Engineering skills
 
@@ -164,3 +143,5 @@
 
 <!-- GOLD FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:1a1a1a,100:FFD700&section=footer&animation=twinkling"/>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/krishna4422" target="_blank">
