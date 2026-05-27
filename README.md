@@ -48,16 +48,16 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishna4123&show_icons=true&count_private=true&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Krishna4123's GitHub Stats" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishna4123&show_icons=true&count_private=true&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" alt="Krishna4123's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&cache_seconds=7200" alt="Top Languages" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna4123&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&column=7" alt="KRISHNAPRASATH's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Krishna4123&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400&column=7" alt="KRISHNAPRASATH's GitHub Trophies" />
 </p>
 
 <p align="center">
