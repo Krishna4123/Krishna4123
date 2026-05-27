@@ -8,20 +8,16 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
 
-<!-- PROFILE VIEWS & FOLLOW -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Krishna4123&style=for-the-badge&color=brightgreen" />
   <img src="https://img.shields.io/github/followers/Krishna4123?style=for-the-badge&color=orange&labelColor=black" />
-  <img src="https://img.shields.io/github/stars/Krishna4123?style=for-the-badge&color=yellow&labelColor=black" />
+  <img src="https://img.shields.io/github/stars/Krishna4123?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=black" />
 </div>
 
 <br/>
 
-<!-- AI Hello sticker - greeting at top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="200" alt="AI Hello" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200" alt="Coding Sticker" />
+  <img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="280" alt="AI Thinking" />
 </p>
 
 <p align="center">
@@ -32,10 +28,6 @@
 - Passionate about AI, ML, Deep Learning, Cloud & Automation
 - Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
 - I love building clean, scalable, production-oriented solutions
-
-<p align="center">
-  <img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="220" alt="AI Thinking" />
-</p>
 
 ## 🧠 My Focus Areas
 - Building scalable AI & ML systems for real-world applications
@@ -52,18 +44,14 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="AI Futurism" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Krishna4123">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishna4123&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" alt="Krishna4123's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishna4123&show_icons=true&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Krishna4123's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Krishna4123&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400&column=7" alt="KRISHNAPRASATH's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna4123&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&column=7" alt="KRISHNAPRASATH's GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -125,15 +113,17 @@
 
 <p align="center">
   <a href="https://github.com/Krishna4123">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Krishna4123)
-<br/>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
+</p>
+
+<!-- SPACE SHOOTER CONTRIBUTION GRAPH -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 ## 🔗 Connect with Me
@@ -160,11 +150,6 @@
   <a href="https://www.buymeacoffee.com/krishna4422" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
   </a>
-</p>
-
-<!-- Homer - because why not -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="280" alt="LOL" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:1a1a1a,100:FFD700&section=footer&animation=twinkling"/>
