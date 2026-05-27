@@ -44,10 +44,16 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/Krishna4123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishna4123&show_icons=true&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700&cache_seconds=7200" alt="Krishna4123's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="49%" />
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="AI Futurism" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna4123&show_icons=true&count_private=true&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" alt="Krishna4123's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0" alt="Top Languages" width="38%" />
 </p>
 
 <p align="center">
@@ -109,12 +115,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Krishna4123">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna4123&langs_count=8&layout=compact&theme=dark&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0" alt="Top Languages" />
-  </a>
 </p>
 
 <p align="center">
