@@ -17,9 +17,11 @@
 
 <br/>
 
-<!-- PROFILE IMAGE - Video Game / Coding Sticker -->
+<!-- AI Hello sticker - greeting at top -->
 <p align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300" alt="Coding Sticker" />
+  <img src="https://media.giphy.com/media/q3kBTEbu3InMQ/giphy.gif" width="200" alt="AI Hello" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="200" alt="Coding Sticker" />
 </p>
 
 <p align="center">
@@ -30,6 +32,10 @@
 - Passionate about AI, ML, Deep Learning, Cloud & Automation
 - Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
 - I love building clean, scalable, production-oriented solutions
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GrPgFtvyLlgElFiO7m/giphy.gif" width="220" alt="AI Thinking" />
+</p>
 
 ## 🧠 My Focus Areas
 - Building scalable AI & ML systems for real-world applications
@@ -44,6 +50,10 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="100%" alt="AI Futurism" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Krishna4123">
