@@ -17,9 +17,9 @@
 
 <br/>
 
-<!-- SINGLE CYBERPUNK IMAGE -->
+<!-- PROFILE IMAGE - Video Game / Coding Sticker -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Cyberpunk AI" />
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300" alt="Coding Sticker" />
 </p>
 
 <p align="center">
@@ -150,6 +150,11 @@
   <a href="https://www.buymeacoffee.com/krishna4422" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
   </a>
+</p>
+
+<!-- Homer - because why not -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif" width="280" alt="LOL" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:1a1a1a,100:FFD700&section=footer&animation=twinkling"/>
