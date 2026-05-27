@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;AI+ENGINEER+%7C+MACHINE+LEARNING;AGENTIC+AI+%7C+GENAI+%7C+CLOUD;Tough+times+grow+softer+through+steady+effort.;INITIALIZING+NEURAL+NETWORKS...;DEPLOYING+TO+PRODUCTION..." alt="Typing SVG" />
 </p>
 
-<!-- GOLD DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
@@ -16,9 +15,27 @@
   <img src="https://img.shields.io/github/stars/Krishna4123?style=for-the-badge&color=yellow&labelColor=black" />
 </div>
 
+<br/>
+
+<!-- SINGLE CYBERPUNK IMAGE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Cyberpunk AI" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
-</p>oud-native deployment using AWS, Docker & FastAPI
+</p>
+
+## 📌 About Me
+- Passionate about AI, ML, Deep Learning, Cloud & Automation
+- Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
+- I love building clean, scalable, production-oriented solutions
+
+## 🧠 My Focus Areas
+- Building scalable AI & ML systems for real-world applications
+- Exploring Agentic AI and autonomous workflows
+- Developing production-ready GenAI applications with RAG & LLMs
+- Cloud-native deployment using AWS, Docker & FastAPI
 - Writing clean, optimized, and maintainable backend systems
 - Strengthening DSA, System Design, and Software Engineering skills
 
@@ -27,15 +44,18 @@
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/Krishna4123">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Krishna4123&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&border_color=FFD700&bg_color=0a0a0a&title_color=FFD700&text_color=C0C0C0&icon_color=FFD700" alt="Krishna4123's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Krishna4123&theme=dark&hide_border=false&border=FFD700&background=0a0a0a&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&sideLabels=C0C0C0&dates=808080&cache_seconds=86400" alt="Krishna4123's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Krishna4123&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&cache_seconds=86400&column=7" alt="KRISHNAPRASATH's GitHub Trophies" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna4123&theme=github-compact&radius=10&color=FFD700&line=C9A84C&point=FFFFFF&area=true&area_color=1a1a1a&bg_color=0a0a0a" alt="Krishna4123's Activity Graph" />
 </p>
@@ -107,6 +127,7 @@
 </p>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnaprasath-s-k-7800a8273/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -125,23 +146,10 @@
   </a>
 </p>
 
-<!-- SPACE SHOOTER CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<!-- GOLD CIRCUIT ANIMATION -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Cyberpunk Matrix" />
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/krishna4422" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" />
+  <a href="https://www.buymeacoffee.com/krishna4422" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
   </a>
 </p>
 
-<!-- GOLD FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0a0a0a,50:1a1a1a,100:FFD700&section=footer&animation=twinkling"/>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/krishna4422" target="_blank">
