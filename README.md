@@ -102,17 +102,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=%24+cat+%2Fetc%2Ftech-stack;%5B+LOADING+ARSENAL...+%5D+████████████+100%25" alt="Tech stack terminal" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=60&text=🛠️%20TECH%20STACK&fontSize=28&fontColor=FFD700&fontAlign=50&fontAlignY=55&stroke=C9A84C&strokeWidth=1" width="100%"/>
 
 <div align="center">
-
-```
- ╔═══════════════════════════════════════════╗
- ║   krishnaprasath@github  ~  tech-stack    ║
- ╚═══════════════════════════════════════════╝
-```
 
 <!-- LANGUAGES -->
 <kbd>◈ &nbsp; L A N G U A G E S &nbsp; ◈</kbd>
