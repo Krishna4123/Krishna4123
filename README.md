@@ -22,18 +22,56 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
 
-## 📌 About Me
-- Passionate about AI, ML, Deep Learning, Cloud & Automation
-- Currently exploring Agentic AI, GenAI, Cloud Engineering, and DSA
-- I love building clean, scalable, production-oriented solutions
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+AI+Engineer+%7C+ML+Researcher+%7C+Cloud+Architect;%24+cat+mission.txt;%3E+Build+intelligent%2C+scalable%2C+production-grade+AI+systems." alt="Terminal typing" />
+</p>
 
-## 🧠 My Focus Areas
-- Building scalable AI & ML systems for real-world applications
-- Exploring Agentic AI and autonomous workflows
-- Developing production-ready GenAI applications with RAG & LLMs
-- Cloud-native deployment using AWS, Docker & FastAPI
-- Writing clean, optimized, and maintainable backend systems
-- Strengthening DSA, System Design, and Software Engineering skills
+```bash
+╔══════════════════════════════════════════════════════════════════════╗
+║  krishnaprasath@github:~$  ./profile.sh                             ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   UID      →  Krishna4123                                            ║
+║   ROLE     →  AI Engineer  |  ML Enthusiast  |  Cloud Architect      ║
+║   STATUS   →  [ ONLINE ]  ████████████████████  100%                ║
+║                                                                      ║
+║   $ cat about.log                                                    ║
+║   [INFO]  Passionate about AI, ML, Deep Learning & Automation        ║
+║   [INFO]  Currently exploring Agentic AI, GenAI & Cloud Engineering  ║
+║   [INFO]  Building clean, scalable, production-ready AI systems      ║
+║                                                                      ║
+║   $ uptime                                                           ║
+║   [ 2+ years deploying AI to production ]                            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=%24+ls+focus%2F;agentic_ai%2F++genai%2F++cloud%2F++mlops%2F++dsa%2F" alt="Focus areas terminal" />
+</p>
+
+<div align="center">
+
+<!-- Row 1: AI / ML Core -->
+![Agentic AI](https://img.shields.io/badge/⚡_Agentic_AI-FF6B35?style=for-the-badge&logoColor=white)
+![GenAI](https://img.shields.io/badge/🤖_GenAI-7B2FBE?style=for-the-badge&logoColor=white)
+![LLMs](https://img.shields.io/badge/🧠_LLMs-412991?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/📚_RAG_Pipelines-E74C3C?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/🔬_Deep_Learning-0052CC?style=for-the-badge&logoColor=white)
+
+<!-- Row 2: Cloud / DevOps -->
+![AWS](https://img.shields.io/badge/☁️_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/⚙️_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MLOps](https://img.shields.io/badge/🔄_MLOps-34495E?style=for-the-badge&logoColor=white)
+
+<!-- Row 3: Engineering -->
+![System Design](https://img.shields.io/badge/🏗️_System_Design-1ABC9C?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/📐_DSA-F39C12?style=for-the-badge&logoColor=white)
+![Backend](https://img.shields.io/badge/🖥️_Backend_Dev-2C3E50?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
