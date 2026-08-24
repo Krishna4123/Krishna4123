@@ -1,10 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Krishna4123's GitHub profile" src="dark_mode.svg" width="100%" />
-</picture>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0a,40:1a1a1a,70:C9A84C,100:FFD700&text=KRISHNAPRASATH&fontSize=52&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20ENGINEER%20⚡&descSize=20&descAlignY=58&textBg=false&stroke=FFD700&strokeWidth=2"/>
+
+<p align="center">
+  <img src="dark_mode.svg" width="100%" alt="Krishna4123's GitHub profile card" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;AI+ENGINEER+%7C+MACHINE+LEARNING;AGENTIC+AI+%7C+GENAI+%7C+CLOUD;Tough+times+grow+softer+through+steady+effort.;INITIALIZING+NEURAL+NETWORKS...;DEPLOYING+TO+PRODUCTION..." alt="Typing SVG" />
@@ -19,12 +17,6 @@
   <img src="https://img.shields.io/github/followers/Krishna4123?style=for-the-badge&color=orange&labelColor=black" />
   <img src="https://img.shields.io/github/stars/Krishna4123?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=black" />
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="dark_mode.svg" width="100%" alt="Krishna4123's GitHub profile card" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
