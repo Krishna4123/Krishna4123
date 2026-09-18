@@ -18,12 +18,6 @@
   <img src="https://img.shields.io/github/stars/Krishna4123?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=black" />
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="shell.png" width="95%" alt="Terminal Profile" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
@@ -32,25 +26,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+AI+Engineer+%7C+ML+Researcher+%7C+Cloud+Architect;%24+cat+mission.txt;%3E+Build+intelligent%2C+scalable%2C+production-grade+AI+systems." alt="Terminal typing" />
 </p>
 
-```bash
-╔══════════════════════════════════════════════════════════════════════╗
-║  krishnaprasath@github:~$  ./profile.sh                             ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   UID      →  Krishna4123                                            ║
-║   ROLE     →  AI Engineer  |  ML Enthusiast  |  Cloud Architect      ║
-║   STATUS   →  [ ONLINE ]  ████████████████████  100%                ║
-║                                                                      ║
-║   $ cat about.log                                                    ║
-║   [INFO]  Passionate about AI, ML, Deep Learning & Automation        ║
-║   [INFO]  Currently exploring Agentic AI, GenAI & Cloud Engineering  ║
-║   [INFO]  Building clean, scalable, production-ready AI systems      ║
-║                                                                      ║
-║   $ uptime                                                           ║
-║   [ 2+ years deploying AI to production ]                            ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="shell.png" width="95%" alt="Terminal Profile" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=%24+ls+focus%2F;agentic_ai%2F++genai%2F++cloud%2F++mlops%2F++dsa%2F" alt="Focus areas terminal" />
