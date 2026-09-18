@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/github/stars/Krishna4123?affiliations=OWNER&style=for-the-badge&color=yellow&labelColor=black" />
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="shell.png" width="95%" alt="Terminal Profile" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" />
 </p>
